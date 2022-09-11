@@ -1,0 +1,8 @@
+Method,Name,Error,Occurrences
+GET,/hotel_9,401 Client Error: Unauthorized for url: /hotel_9,347
+POST,/auth/local,401 Client Error: Unauthorized for url: http://nginx.ciaobnb.local/login_error,25
+GET,/hotel_6,401 Client Error: Unauthorized for url: /hotel_6,33
+GET,/hotel_7,401 Client Error: Unauthorized for url: /hotel_7,247
+GET,/hotel_5,401 Client Error: Unauthorized for url: /hotel_5,34
+GET,/hotel_1,401 Client Error: Unauthorized for url: /hotel_1,36
+GET,/hotel_8,401 Client Error: Unauthorized for url: /hotel_8,202

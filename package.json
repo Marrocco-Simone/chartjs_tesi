@@ -1,0 +1,19 @@
+{
+  "name": "chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chartjs.js",
+  "scripts": {
+    "start": "node chartjs.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^3.7.0",
+    "chartjs-adapter-date-fns": "^2.0.0",
+    "date-fns": "^2.28.0",
+    "express": "^4.17.2"
+  }
+}
